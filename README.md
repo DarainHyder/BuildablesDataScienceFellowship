@@ -1,64 +1,85 @@
-# Buildables Data Science Fellowship 🚀
+# 🚀 Buildables Data Science Fellowship
 
-> A comprehensive portfolio of my 12-week journey mastering Data Science, Machine Learning, and Deep Learning.
+> *"In God we trust. All others must bring data."* — W. Edwards Deming
 
-## 📌 Overview
+<div align="center">
 
-Welcome to my repository for the **Buildables Data Science Fellowship**. This collection represents 3 months of intensive learning, practical application, and real-world problem solving. From manipulating raw data with Pandas to deploying complex Deep Learning models for Cyberbullying detection, this repository documents my growth as a Data Scientist.
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## 🛠️ Tech Stack & Skills
+</div>
 
-*   **Languages:** Python, SQL
-*   **Data Manipulation:** Pandas, NumPy
-*   **Visualization:** Matplotlib, Seaborn
-*   **Machine Learning:** Scikit-Learn, XGBoost, K-Means Clustering
-*   **Deep Learning:** TensorFlow/Keras, CNNs, RNNs/LSTMs, Transfer Learning
-*   **Deployment & Tools:** Flask/FastAPI, Streamlit, Git/GitHub, Jupyter Notebooks
+---
 
-## 🌟 Key Projects
+## `sudo init_data_scientist.sh`
 
-### 1. Cyberbullying Detection System (Capstone Project)
-**Location:** [`Week_10-12/CyberBullying-DetectionSystem`](Week_10-12/CyberBullying-DetectionSystem)
-*   **Description:** A complete end-to-end system designed to detect and flag offensive content in text.
-*   **Tech:** NLP, LSTM/BERT, Flask API.
-*   **Highlights:**
-    *   Trained on a large dataset of social media comments.
-    *   Deployed as a live web application.
-    *   Includes a comprehensive API for integration.
+Welcome to my **Buildables Data Science Fellowship** repository. This isn't just a collection of folders; it's the logfile of a 12-week transformation from code enthusiast to Data Scientist.
 
-### 2. NASA Space Apps Challenge
-**Location:** [`Week_7/NASA-Space-App`](Week_7/NASA-Space-App)
-*   **Description:** An innovative solution developed during the global hackathon, leveraging space data for impactful insights.
-*   **Tech:** Data Analysis, Interactive Dashboards.
-*   **Highlights:**
-    *   Collaborative development under tight deadlines.
-    *   Real-world data processing and visualization.
+Here, you'll find everything from raw EDA on messy datasets to deploying state-of-the-art Deep Learning models. 
 
-### 3. Movie Recommendation System
-**Location:** [`Week_3/Mini-Project`](Week_3/Mini-Project)
-*   **Description:** A personalized recommendation engine suggesting movies based on user preferences and viewing history.
-*   **Tech:** Collaborative Filtering, Content-Based Filtering.
+```python
+while fellowship_active:
+    learn()
+    build()
+    deploy()
+```
 
-## 📅 Roadmap & Weekly Progress
+---
 
-### Phase 1: Foundations & Analysis (Weeks 1-4)
-*   **Week 1:** Introduction to Python for Data Science.
-*   **Week 2-3:** Advanced Data Manipulation & Visualization.
-    *   *Mini-Project:* Interactive Movie Recommender.
-*   **Week 4:** Exploratory Data Analysis (EDA) on real-world datasets.
-    *   *Project:* Feedback Analysis Dashboard.
+## ⚡ Featured Projects
 
-### Phase 2: Machine Learning Mastery (Weeks 5-8)
-*   **Week 5:** Supervised Learning (Regression & Classification).
-*   **Week 6:** Model Evaluation & Optimization.
-*   **Week 7:** Unsupervised Learning (Clustering & Dimensionality Reduction).
-    *   *Hackathon:* NASA Space Apps Challenge.
-*   **Week 8:** Feature Engineering & Selection.
+### 🛡️ Cyberbullying Detection System
+> *Protecting digital spaces with NLP.*
 
-### Phase 3: Deep Learning & Deployment (Weeks 9-12)
-*   **Week 9:** Neural Networks & Computer Vision.
-*   **Week 10-12:** Natural Language Processing (NLP) & Capstone Development.
-    *   *Capstone:* **Cyberbullying Detection System**.
+**📍 Location:** [`Week_10-12/CyberBullying-DetectionSystem`](Week_10-12/CyberBullying-DetectionSystem)
 
-## 📬 Contact
-Feel free to explore the code! If you have any questions or collaboration ideas, please reach out.
+*   **The Problem:** Social media can be toxic. Manual moderation doesn't scale.
+*   **The Code:** A robust NLP pipeline using **LSTMs** and **BERT** embeddings to classify toxic comments with high accuracy. Wrapped in a **Flask API**.
+*   **The Impact:** Real-time flagging of offensive content, making the internet a safer place.
+
+### 🌌 NASA Space Apps Challenge
+> *Hacking the cosmos with data.*
+
+**📍 Location:** [`Week_7/NASA-Space-App`](Week_7/NASA-Space-App)
+
+*   **The Event:** 48 hours. Global competition. Real NASA data.
+*   **The Build:** Developed an interactive dashboard to visualize space debris and predict potential collisions.
+*   **The Vibe:** High pressure, caffeine-fueled collaboration, and rapid prototyping.
+
+### 🎬 "What Should I Watch?" Recommender
+> *Because scrolling Netflix takes too long.*
+
+**📍 Location:** [`Week_3/Mini-Project`](Week_3/Mini-Project)
+
+*   **The Tech:** Collaborative Filtering & Content-Based Filtering.
+*   **The Result:** A personalized engine that knows your taste better than you do.
+
+---
+
+## �️ The Roadmap (12 Weeks of Code)
+
+| Phase | Focus | Key Tech |
+| :--- | :--- | :--- |
+| **Weeks 1-4** | **Foundations & Analysis** | 🐍 Python, Pandas, Matplotlib |
+| **Weeks 5-8** | **Machine Learning Ops** | 🤖 Scikit-Learn, XGBoost, Clustering |
+| **Weeks 9-12** | **Deep Learning & Deploy** | 🧠 TensorFlow, LSTM, Flask, APIs |
+
+---
+
+## 🧬 Skills Acquired
+
+*   **Data Wrangling:** Taming the wildest CSVs with `Pandas`.
+*   **Visualization:** storytelling with `Seaborn` and `Matplotlib`.
+*   **Model Training:** From Linear Regression to Deep Neural Networks.
+*   **Deployment:** Turning `.ipynb` experiments into `.py` production code.
+
+---
+
+<br>
+
+<div align="center">
+  <sub>Built with ❤️ and too much coffee during the Buildables Fellowship.</sub>
+</div>
