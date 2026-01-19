@@ -10,6 +10,15 @@ A comprehensive portfolio documenting my 12-week fellowship journey, progressing
 
 ---
 
+## About the Fellowship
+
+The Buildables Data Science Fellowship is a 12-week intensive training program designing to bridge the gap between theoretical knowledge and industry application. The curriculum rigorously progresses through three phases:
+1.  **Foundations:** Data manipulation, visualization, and statistical analysis.
+2.  **Machine Learning:** Supervised/Unsupervised learning, model optimization, and pipelines.
+3.  **Deployment & Deep Learning:** Neural networks, NLP, and deploying models via APIs.
+
+---
+
 ## Key Projects
 
 ### Cyberbullying Detection System
