@@ -25,40 +25,43 @@ The Buildables Data Science Fellowship is a 12-week intensive training program d
 
 ### MindScan: Mental Health Detection System
 **Link:** [View Project](https://github.com/DarainHyder/MindScan)
-*   **Tech Stack:** Python, NLP (DistilBERT, TF-IDF), Flask.
+*   **Tech Stack:** `Python`, `NLP (DistilBERT, TF-IDF)`, `Flask`
 *   **Description:** AI-powered depression detection system integrating text analysis and PHQ-9 scoring for risk assessment. Features both baseline and transformer-based models.
 
 ### Cyberbullying Detection System
 **Link:** [View Project](https://github.com/DarainHyder/CyberBullying-DetectionSystem)
-*   **Tech Stack:** Python, Scikit-Learn (Logistic Regression), TF-IDF, FastAPI, Streamlit.
+*   **Tech Stack:** `Python`, `Scikit-Learn`, `TF-IDF`, `FastAPI`, `Streamlit`
 *   **Description:** End-to-end NLP pipeline for multiclass classification of toxic content (Age, Ethnicity, Religion, Gender). Features a REST API and interactive web dashboard.
 
 ### ExoVision-AI (NASA Space Apps)
 **Link:** [View Project](https://github.com/DarainHyder/ExoVision-AI)
-*   **Tech Stack:** XGBoost, Decision Trees, Flask.
+*   **Tech Stack:** `XGBoost`, `Decision Trees`, `Flask`
 *   **Description:** 48-hour Hackathon winner. Automated classification system for exoplanet candidates using NASA's K2 dataset, tailored for high accuracy and interpretability.
 
 ### Fellowship Feedback Analysis
 **Link:** [View Project](https://github.com/DarainHyder/BuildablesDataScienceFellowship/tree/main/Week_3/Mini-Project)
-*   **Tech Stack:** Pandas, Matplotlib, Seaborn.
-*   **Description:** Exploratory Data Analysis (EDA) dashboard extracting actionable insights from cohort feedback surveys to improve curriculum effectiveness.
+*   **Tech Stack:** `Monday.com`, `Excel`
+*   **Description:** Comprehensive dashboarding and reporting project. Analyzed cohort feedback to derive actionable insights for curriculum improvement and student satisfaction.
 
 ---
 
 ## Technical Skills
 
-*   **Languages:** Python, SQL, Bash.
-*   **Machine Learning:** Scikit-Learn, XGBoost, TensorFlow, Keras, Model Tuning, NLP.
-*   **Data Analysis:** Pandas, NumPy, Exploratory Data Analysis (EDA).
-*   **Web Development:** Flask, FastAPI, Streamlit.
-*   **Tools:** Git/GitHub, VS Code, Jupyter Notebooks.
+*   **Languages:** `Python`, `SQL`, `Bash`
+*   **Machine Learning:** `Scikit-Learn`, `XGBoost`, `TensorFlow`, `Keras`, `NLP`
+*   **Data Analysis:** `Pandas`, `NumPy`, `EDA`
+*   **Web Development:** `Flask`, `FastAPI`, `Streamlit`
+*   **Tools:** `Git`, `VS Code`, `Jupyter Notebooks`
 
 ---
 
 ## Contact
 
-*   **LinkedIn:** [Syed Darain Hyder Kazmi](https://linkedin.com/in/syed-darain-hyder-kazmi)
-*   **GitHub:** [DarainHyder](https://github.com/DarainHyder)
+```bash
+# Connect with me
+LinkedIn: https://linkedin.com/in/syed-darain-hyder-kazmi
+GitHub:   https://github.com/DarainHyder
+```
 
 ---
 
@@ -68,9 +71,3 @@ while True:
     train_model()
     deploy()
 ```
-
----
-
-<div align="center">
-  <sub>Built with ❤️ and too much coffee.</sub>
-</div>
