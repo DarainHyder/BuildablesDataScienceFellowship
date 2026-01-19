@@ -62,6 +62,15 @@ The Buildables Data Science Fellowship is a 12-week intensive training program d
 
 ---
 
+```python
+while True:
+    explore_data()
+    train_model()
+    deploy()
+```
+
+---
+
 <div align="center">
   <sub>Built with ❤️ and too much coffee.</sub>
 </div>
