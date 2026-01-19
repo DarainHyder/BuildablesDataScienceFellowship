@@ -29,12 +29,12 @@ The Buildables Data Science Fellowship is a 12-week intensive training program d
 *   **Description:** AI-powered depression detection system integrating text analysis and PHQ-9 scoring for risk assessment. Features both baseline and transformer-based models.
 
 ### Cyberbullying Detection System
-**Link:** [View Project](https://github.com/DarainHyder/BuildablesDataScienceFellowship/tree/main/Week_10-12/CyberBullying-DetectionSystem)
+**Link:** [View Project](https://github.com/DarainHyder/CyberBullying-DetectionSystem)
 *   **Tech Stack:** Python, Scikit-Learn (Logistic Regression), TF-IDF, FastAPI, Streamlit.
 *   **Description:** End-to-end NLP pipeline for multiclass classification of toxic content (Age, Ethnicity, Religion, Gender). Features a REST API and interactive web dashboard.
 
 ### ExoVision-AI (NASA Space Apps)
-**Link:** [View Project](https://github.com/DarainHyder/BuildablesDataScienceFellowship/tree/main/Week_7/NASA-Space-App)
+**Link:** [View Project](https://github.com/DarainHyder/ExoVision-AI)
 *   **Tech Stack:** XGBoost, Decision Trees, Flask.
 *   **Description:** 48-hour Hackathon winner. Automated classification system for exoplanet candidates using NASA's K2 dataset, tailored for high accuracy and interpretability.
 
