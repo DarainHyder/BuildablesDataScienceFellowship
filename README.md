@@ -20,7 +20,7 @@ This section highlights the three major milestones of my fellowship: the compreh
 
 ### 1. 🛡️ Final Project: Cyberbullying Detection System
 **Type:** End-to-End NLP Multiclass Classification System
-**Location:** [`Week_10-12/CyberBullying-DetectionSystem`](Week_10-12/CyberBullying-DetectionSystem)
+**Location:** [`Week_10-12/CyberBullying-DetectionSystem`](https://github.com/DarainHyder/BuildablesDataScienceFellowship/tree/main/Week_10-12/CyberBullying-DetectionSystem)
 
 **Overview:**
 A robust Natural Language Processing (NLP) pipeline designed to identify and classify toxic online behavior. The system moves beyond binary classification to detect specific types of cyberbullying (Age, Ethnicity, Religion, Gender, Other).
@@ -35,7 +35,7 @@ A robust Natural Language Processing (NLP) pipeline designed to identify and cla
 
 ### 2. 🌌 Hackathon Project: ExoVision-AI (NASA Space Apps)
 **Type:** 48-Hour Global Hackathon Submission
-**Location:** [`Week_7/NASA-Space-App`](Week_7/NASA-Space-App)
+**Location:** [`Week_7/NASA-Space-App`](https://github.com/DarainHyder/BuildablesDataScienceFellowship/tree/main/Week_7/NASA-Space-App)
 
 **Overview:**
 Developed during the **NASA Space Apps Challenge 2025**, ExoVision-AI is an automated system for classifying celestial objects as "Confirmed Exoplanets" or "Candidates" using NASA's K2 Planets and Candidates Catalog.
@@ -47,7 +47,7 @@ Developed during the **NASA Space Apps Challenge 2025**, ExoVision-AI is an auto
 
 ### 3. 📊 Mini Project: Fellowship Feedback Analysis
 **Type:** Exploratory Data Analysis (EDA) & Visualization
-**Location:** [`Week_3/Mini-Project`](Week_3/Mini-Project)
+**Location:** [`Week_3/Mini-Project`](https://github.com/DarainHyder/BuildablesDataScienceFellowship/tree/main/Week_3/Mini-Project)
 
 **Overview:**
 A data-driven analysis of feedback gathered from fellowship participants. This project focuses on cleaning raw survey data and visualizing insights to improve the cohort experience.
