@@ -1,5 +1,7 @@
 # Buildables Data Science Fellowship
 
+> *"In God we trust. All others must bring data."* — W. Edwards Deming
+
 A comprehensive portfolio documenting my 12-week fellowship journey, progressing from data analysis foundations to advanced machine learning deployment.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -12,14 +14,19 @@ A comprehensive portfolio documenting my 12-week fellowship journey, progressing
 
 ## About the Fellowship
 
-The Buildables Data Science Fellowship is a 12-week intensive training program designing to bridge the gap between theoretical knowledge and industry application. The curriculum rigorously progresses through three phases:
-1.  **Foundations:** Data manipulation, visualization, and statistical analysis.
-2.  **Machine Learning:** Supervised/Unsupervised learning, model optimization, and pipelines.
-3.  **Deployment & Deep Learning:** Neural networks, NLP, and deploying models via APIs.
+The Buildables Data Science Fellowship is a 12-week intensive training program designed to bridge the gap between theoretical knowledge and industry application. The curriculum rigorously progresses through three phases:
+*   **Foundations:** Data manipulation, visualization, and statistical analysis.
+*   **Machine Learning:** Supervised/Unsupervised learning, model optimization, and pipelines.
+*   **Deployment & Deep Learning:** Neural networks, NLP, and deploying models via APIs.
 
 ---
 
 ## Key Projects
+
+### MindScan: Mental Health Detection System
+**Link:** [View Project](https://github.com/DarainHyder/MindScan)
+*   **Tech Stack:** Python, NLP (DistilBERT, TF-IDF), Flask.
+*   **Description:** AI-powered depression detection system integrating text analysis and PHQ-9 scoring for risk assessment. Features both baseline and transformer-based models.
 
 ### Cyberbullying Detection System
 **Link:** [View Project](https://github.com/DarainHyder/BuildablesDataScienceFellowship/tree/main/Week_10-12/CyberBullying-DetectionSystem)
@@ -38,18 +45,10 @@ The Buildables Data Science Fellowship is a 12-week intensive training program d
 
 ---
 
-## Curriculum Highlights
-
-*   **Unsupervised Learning (Week 9):** Implemented K-Means and Hierarchical clustering to identify patterns in unlabelled datasets.
-*   **Deep Learning (Week 8):** Built and trained Neural Networks from scratch, exploring architecture optimization.
-*   **Recommender Systems (Week 6):** Developed a collaborative filtering engine for personalized movie recommendations.
-
----
-
 ## Technical Skills
 
 *   **Languages:** Python, SQL, Bash.
-*   **Machine Learning:** Scikit-Learn, XGBoost, TensorFlow, Keras, Model Tuning.
+*   **Machine Learning:** Scikit-Learn, XGBoost, TensorFlow, Keras, Model Tuning, NLP.
 *   **Data Analysis:** Pandas, NumPy, Exploratory Data Analysis (EDA).
 *   **Web Development:** Flask, FastAPI, Streamlit.
 *   **Tools:** Git/GitHub, VS Code, Jupyter Notebooks.
@@ -60,3 +59,9 @@ The Buildables Data Science Fellowship is a 12-week intensive training program d
 
 *   **LinkedIn:** [Syed Darain Hyder Kazmi](https://linkedin.com/in/syed-darain-hyder-kazmi)
 *   **GitHub:** [DarainHyder](https://github.com/DarainHyder)
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ and too much coffee.</sub>
+</div>
