@@ -77,3 +77,17 @@ while True:
     train_model()
     deploy()
 ```
+
+---
+
+<div align="center">
+
+**If you find this journey inspiring, please consider giving it a ⭐**
+
+<br>
+
+`Happy Coding!`
+
+<sub>Built with ❤️ and too much coffee.</sub>
+
+</div>
