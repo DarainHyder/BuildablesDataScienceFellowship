@@ -1,6 +1,6 @@
 # Buildables Data Science Fellowship
 
-This repository documents my 12-week intensive journey through the Buildables Data Science Fellowship. It serves as a comprehensive portfolio of my progression from foundational data analysis to deploying advanced machine learning models.
+A comprehensive portfolio documenting my 12-week fellowship journey, progressing from data analysis foundations to advanced machine learning deployment.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -10,82 +10,44 @@ This repository documents my 12-week intensive journey through the Buildables Da
 
 ---
 
-## 📂 Main Projects
+## Key Projects
 
-This section highlights the three major milestones of my fellowship.
+### Cyberbullying Detection System
+**Link:** [View Project](https://github.com/DarainHyder/BuildablesDataScienceFellowship/tree/main/Week_10-12/CyberBullying-DetectionSystem)
+*   **Tech Stack:** Python, Scikit-Learn (Logistic Regression), TF-IDF, FastAPI, Streamlit.
+*   **Description:** End-to-end NLP pipeline for multiclass classification of toxic content (Age, Ethnicity, Religion, Gender). Features a REST API and interactive web dashboard.
 
-### 1. 🛡️ Final Project: Cyberbullying Detection System
-*   **Type:** End-to-End NLP Multiclass Classification System
-*   **Link:** [View Project](https://github.com/DarainHyder/BuildablesDataScienceFellowship/tree/main/Week_10-12/CyberBullying-DetectionSystem)
+### ExoVision-AI (NASA Space Apps)
+**Link:** [View Project](https://github.com/DarainHyder/BuildablesDataScienceFellowship/tree/main/Week_7/NASA-Space-App)
+*   **Tech Stack:** XGBoost, Decision Trees, Flask.
+*   **Description:** 48-hour Hackathon winner. Automated classification system for exoplanet candidates using NASA's K2 dataset, tailored for high accuracy and interpretability.
 
-**Overview**
-A robust Natural Language Processing (NLP) pipeline designed to identify and classify toxic online behavior. The system moves beyond binary classification to detect specific types of cyberbullying (Age, Ethnicity, Religion, Gender, Other).
-
-**Key Features**
-*   **Model:** Logistic Regression with Class Balancing.
-*   **Pipeline:** Custom preprocessing (Tokenization, Lemmatization, TF-IDF).
-*   **Deployment:** REST API via **FastAPI** and an interactive **Streamlit** dashboard.
-
-### 2. 🌌 Hackathon Project: ExoVision-AI (NASA Space Apps)
-*   **Type:** 48-Hour Global Hackathon Submission
-*   **Link:** [View Project](https://github.com/DarainHyder/BuildablesDataScienceFellowship/tree/main/Week_7/NASA-Space-App)
-
-**Overview**
-Developed during the **NASA Space Apps Challenge 2025**, ExoVision-AI is an automated system for classifying celestial objects as "Confirmed Exoplanets" or "Candidates" using NASA's K2 Planets and Candidates Catalog.
-
-**Key Features**
-*   **Algorithm:** Ensemble of **XGBoost** (99% Accuracy) and **Decision Trees**.
-*   **Interface:** Full-stack **Flask** application with real-time visualization dashboards.
-
-### 3. 📊 Mini Project: Fellowship Feedback Analysis
-*   **Type:** Exploratory Data Analysis (EDA) & Visualization
-*   **Link:** [View Project](https://github.com/DarainHyder/BuildablesDataScienceFellowship/tree/main/Week_3/Mini-Project)
-
-**Overview**
-A data-driven analysis of feedback gathered from fellowship participants to identify key trends in curriculum effectiveness and student satisfaction.
-
-**Key Features**
+### Fellowship Feedback Analysis
+**Link:** [View Project](https://github.com/DarainHyder/BuildablesDataScienceFellowship/tree/main/Week_3/Mini-Project)
 *   **Tech Stack:** Pandas, Matplotlib, Seaborn.
-*   **Outcome:** Actionable insights presented through comprehensive visualization reports.
+*   **Description:** Exploratory Data Analysis (EDA) dashboard extracting actionable insights from cohort feedback surveys to improve curriculum effectiveness.
 
 ---
 
-## 🎓 Curriculum Highlights & Assignments
+## Curriculum Highlights
 
-Beyond the main projects, the fellowship covered a wide range of advanced topics.
-
-*   **Week 9: Unsupervised Learning**
-    *   Implemented Clustering algorithms (K-Means, Hierarchical) to find hidden patterns in unlabelled data.
-    *   *Files:* `Week_9/clustering.ipynb`, `Week_9/Unsupervised Learning.pdf`
-
-*   **Week 8: Deep Learning Foundations**
-    *   Built neural networks from scratch and explored architectures for complex pattern recognition.
-    *   *Files:* `Week_8/DeepLearning.ipynb`
-
-*   **Week 6: Recommender Systems**
-    *   Developed a movie recommendation engine using Collaborative Filtering techniques.
-    *   *Files:* `Week_6/RecommendationSystem.ipynb`
+*   **Unsupervised Learning (Week 9):** Implemented K-Means and Hierarchical clustering to identify patterns in unlabelled datasets.
+*   **Deep Learning (Week 8):** Built and trained Neural Networks from scratch, exploring architecture optimization.
+*   **Recommender Systems (Week 6):** Developed a collaborative filtering engine for personalized movie recommendations.
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-*   **Languages:** Python, SQL, Bash
-*   **Machine Learning:** Scikit-Learn, XGBoost, TensorFlow/Keras
-*   **Data Science:** Pandas, NumPy, Matplotlib, Seaborn
-*   **Web Frameworks:** Flask, FastAPI, Streamlit
-*   **Tools:** Git, Jupyter, VS Code
+*   **Languages:** Python, SQL, Bash.
+*   **Machine Learning:** Scikit-Learn, XGBoost, TensorFlow, Keras, Model Tuning.
+*   **Data Analysis:** Pandas, NumPy, Exploratory Data Analysis (EDA).
+*   **Web Development:** Flask, FastAPI, Streamlit.
+*   **Tools:** Git/GitHub, VS Code, Jupyter Notebooks.
 
 ---
 
-## 📬 Contact
-
-I am open to collaboration and new opportunities. Feel free to connect!
+## Contact
 
 *   **LinkedIn:** [Syed Darain Hyder Kazmi](https://linkedin.com/in/syed-darain-hyder-kazmi)
 *   **GitHub:** [DarainHyder](https://github.com/DarainHyder)
-
----
-<div align="center">
-  <sub>© 2025 Syed Darain Hyder Kazmi. Maintained as part of the Buildables Data Science Fellowship.</sub>
-</div>
